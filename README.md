@@ -1,5 +1,4 @@
 ## Random Quote | Random words from elders | Rest Api
-- 📌<a href="https://rickandmorthy-react.netlify.app/" rel="nofollow">Demo</a>
 - 🙋‍♀️Developed by Bita Shahsavan
 - 📧Contact with me : <a href="https://www.linkedin.com/in/bita-shahsavan-830471299/" rel="nofollow">LINKEDIN</a>
 - 📆Created : july 2024
